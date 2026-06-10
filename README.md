@@ -73,6 +73,6 @@ Regional sales distribution using a donut chart.
 --
 
 ## 8. Author
-Hari Thalari
-Computer Science & Design (CSD)
-Power BI Project
+Hari Thalari, 
+ Computer Science & Design (CSD),
+ Power BI Project
